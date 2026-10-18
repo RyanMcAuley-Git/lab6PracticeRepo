@@ -1,3 +1,4 @@
+<h2>Lab 6 Feature Branch Update</h2>
 <?php
 include 'db.php';
 
